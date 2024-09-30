@@ -32,4 +32,13 @@ public class Application extends SpringBootServletInitializer {
 		SpringApplication.run(Application.class, args);
 	}
 
+	
+	
+	public void testingGitY()
+	{
+		System.out.println("Adding this method in GitY master branch");
+	}
+	
+	
 }
+
