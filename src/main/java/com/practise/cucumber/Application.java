@@ -39,6 +39,10 @@ public class Application extends SpringBootServletInitializer {
 		System.out.println("Adding this method in GitY master branch");
 	}
 	
+	public void testingGitX()
+	{
+		System.out.println("Adding this method in GitX master branch");
+	}
 	
 }
 
