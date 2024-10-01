@@ -17,5 +17,12 @@ public class PractiseGit {
 	{
 		System.out.println("student name is shamini");
 	}
+	
+	@Test
+	public void student3()
+	{
+		System.out.println("student name is manoj");
+	}
+
 
 }
