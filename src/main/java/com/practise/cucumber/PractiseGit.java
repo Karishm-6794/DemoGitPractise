@@ -23,6 +23,12 @@ public class PractiseGit {
 	{
 		System.out.println("student name is manoj");
 	}
+	
+	@Test
+	public void student4()
+	{
+		System.out.println("student name is vasavi");
+	}
 
 
 }
